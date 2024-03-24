@@ -1,0 +1,23 @@
+{
+  "name": "ghazala01----cli--number-guessing",
+  "version": "3.1.2",
+  "description": "this is cli numbers guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "ghazala---cli-number-guessing": "^2.0.1",
+    "inquirer": "^9.2.16"
+  }
+}
